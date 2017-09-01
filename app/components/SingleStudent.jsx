@@ -39,7 +39,7 @@ export default class SingleStudent extends Component {
                                  }
                          </h3>
                         
-                        <div className="editBody">
+                        <div className="editBody" id="editStudent">
                             <h1>Please press edit to update student information: 
                                 <button type="button" className="btn btn-success"><Link to={`/student/edit/${studentInfo.id}`}>Edit</Link></button>
                             </h1>

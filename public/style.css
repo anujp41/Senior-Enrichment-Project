@@ -176,3 +176,8 @@ button:hover {
     width: 15%;
     margin-top: 150px
 }
+
+#editStudent {
+    font-size: 75%;
+    width: 65vw
+}
